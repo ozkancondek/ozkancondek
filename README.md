@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Özkan</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on **Januam-Mentoring Web App**
+- 🔭 I’m currently working as **Application Developer**
 
 - 🌱 I’m currently learning **Fullstack Skills**
 
