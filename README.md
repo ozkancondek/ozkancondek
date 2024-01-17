@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Application Developer**
 
-- 🌱 I’m currently learning **Fullstack Skills**
+- 🌱 And I’m learning **Fullstack Skills**
 
 - 📫 How to reach me **ozkancondek07@gmail.com**
 
