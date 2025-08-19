@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Özkan</h1>
 <h3 align="center">A passionate Software Apprentice</h3>
+<h4 align="center">The most perfect code is the code that hasn’t been written yet</h5>
 
 - 🔭 I use this account as a memory log while I explore new tools.
 
