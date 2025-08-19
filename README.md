@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özkan</h1>
-<h3 align="center">A passionate Fullstack developer from Germany</h3>
+<h3 align="center">A passionate Software Apprentice</h3>
 
 - 🔭 I’m currently working as **Application Developer**
 
