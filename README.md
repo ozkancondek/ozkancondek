@@ -4,11 +4,11 @@
 
 - 🔭 I use this account as a memory log while I explore new tools.
 
-- 🛠️ You’ll see works-in-progress—and yes, also unfinished projects.
+- 🛠️ You’ll see works-in-progress—and yes, also unfinished project :) 
 
 - 💻 I mainly focus on full-stack tools. JavaScript was my first sword in this battle, so I’ve tried many projects with related Frameworks.
 
-- 🌱 On the backend, I started with Java and I’m currently building apps with Spring Boot.
+- 🌱 On the backend, I started with Java and I’m currently building and maintaining apps with Spring Boot.
 
 - 📫 How to reach me **ozkancondek07@gmail.com**
 
